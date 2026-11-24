@@ -1033,6 +1033,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE4|sinev_timur|0.4601|7|
 |3823B1PE4|trofimov_nikita|TEST FAILED|-|
 |3823B1PE4|kaur_alexander|TEST FAILED|-|
+|3823B1FI2|sannikov_ivan|TEST FAILED|-|
 
 # Tasks Done
 ## 3823B1FI1
