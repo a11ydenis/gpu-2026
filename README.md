@@ -444,6 +444,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE4|karpich_ivan|0.2313|11|
 |3823B1PE4|terekhov_dmitriy|0.2329|8|
 |3823B1FI3|lifanov_kirill|0.2333|1|
+|3823B1PE2|yushkova_polina|0.2333|17|
 |3823B1PE2|olesnitskiy_vladimir|0.2337|12|
 |3823B1PE1|ivanova_polina|0.2358|12|
 |3823B1PE3|bortsova_angelina|0.2359|3|
@@ -558,6 +559,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE4|zaharov_gleb|0.2575|1|
 |3823B1PE3|samoylenko_ilya|0.2607|14|
 |3823B1PE4|terekhov_dmitriy|0.2626|8|
+|3823B1PE2|yushkova_polina|0.2640|17|
 |3823B1PE4|baranov_andrey|0.2641|6|
 |3823B1PE3|smetanin_dmitriy|0.2643|13|
 |3823B1PE2|zyazeva_svetlana|0.2650|16|
@@ -631,6 +633,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE4|trofimov_nikita|0.1098|11|
 |3823B1PE2|olesnitskiy_vladimir|0.1111|11|
 |3823B1PE2|klimenko_vladislav|0.1138|1|
+|3823B1PE2|yushkova_polina|0.1200|17|
 |3823B1FI1|zenin_anton|0.1349|1|
 |3823B1PE4|peryashkin_vasily|0.1430|5|
 |3823B1FI3|lifanov_kirill|0.1437|1|
@@ -700,6 +703,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE4|peryashkin_vasily|0.0724|5|
 |3823B1PE1|tsibareva_ekaterina|0.0775|8|
 |3823B1PE1|popova_elizaveta|0.0792|15|
+|3823B1PE2|yushkova_polina|0.0807|16|
 |3823B1PE2|sinev_artem|0.0815|6|
 |3823B1PE2|klimenko_vladislav|0.0842|1|
 |3823B1PE4|imanov_sabutay|0.1278|15|
@@ -1085,21 +1089,22 @@ Passed: 15
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
 |3823B1PE2|akhmetov_daniil|**8/8**|**427**|
-|3823B1PE2|klimenko_vladislav|**8/8**|**428**|
-|3823B1PE2|kolotukhin_alexander|**8/8**|**417**|
-|3823B1PE2|kotelnikova_anastasia|**8/8**|**416**|
-|3823B1PE2|olesnitskiy_vladimir|**8/8**|**379**|
-|3823B1PE2|ovchinnikov_matvey|5/8|253|
-|3823B1PE2|posternak_alexey|**8/8**|**389**|
-|3823B1PE2|romanov_rodion|**8/8**|**326**|
+|3823B1PE2|klimenko_vladislav|**8/8**|**425**|
+|3823B1PE2|kolotukhin_alexander|**8/8**|**416**|
+|3823B1PE2|kotelnikova_anastasia|**8/8**|**413**|
+|3823B1PE2|olesnitskiy_vladimir|**8/8**|**378**|
+|3823B1PE2|ovchinnikov_matvey|5/8|252|
+|3823B1PE2|posternak_alexey|**8/8**|**388**|
+|3823B1PE2|romanov_rodion|**8/8**|**322**|
 |3823B1PE2|shakirova_esenia|3/8|141|
-|3823B1PE2|sinev_artem|**8/8**|**414**|
-|3823B1PE2|tsyplakov_kirill|7/8|317|
-|3823B1PE2|vasiliev_mikhail|**8/8**|**449**|
-|3823B1PE2|viderman_aleksandra|**8/8**|**459**|
-|3823B1PE2|zorin_danila_artemovich|**8/8**|**409**|
-|3823B1PE2|zyazeva_svetlana|4/8|162|
-|3823B1PE2|zyuzin_nikita|**8/8**|**418**|
+|3823B1PE2|sinev_artem|**8/8**|**412**|
+|3823B1PE2|tsyplakov_kirill|7/8|314|
+|3823B1PE2|vasiliev_mikhail|**8/8**|**448**|
+|3823B1PE2|viderman_aleksandra|**8/8**|**458**|
+|3823B1PE2|yushkova_polina|4/8|158|
+|3823B1PE2|zorin_danila_artemovich|**8/8**|**405**|
+|3823B1PE2|zyazeva_svetlana|4/8|160|
+|3823B1PE2|zyuzin_nikita|**8/8**|**417**|
 
 Passed: 12
 
