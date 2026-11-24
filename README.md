@@ -443,8 +443,8 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1FI2|rozenberg_alexey|0.2303|3|
 |3823B1PE4|karpich_ivan|0.2313|11|
 |3823B1PE4|terekhov_dmitriy|0.2329|8|
-|3823B1FI3|lifanov_kirill|0.2333|1|
 |3823B1PE2|yushkova_polina|0.2333|17|
+|3823B1FI3|lifanov_kirill|0.2333|1|
 |3823B1PE2|olesnitskiy_vladimir|0.2337|12|
 |3823B1PE1|ivanova_polina|0.2358|12|
 |3823B1PE3|bortsova_angelina|0.2359|3|
@@ -772,6 +772,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE3|dergachev_arseniy|0.0363|1|
 |3823B1PE1|otcheskov_semyon|0.0363|4|
 |3823B1PE2|akhmetov_daniil|0.0364|8|
+|3823B1PE2|zyazeva_svetlana|0.0366|15|
 |3823B1FI2|sannikov_ivan|0.0366|2|
 |3823B1PE3|korolev_kuzma|0.0367|9|
 |3823B1PE4|imanov_sabutay|0.0368|13|
@@ -1089,22 +1090,22 @@ Passed: 15
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
 |3823B1PE2|akhmetov_daniil|**8/8**|**427**|
-|3823B1PE2|klimenko_vladislav|**8/8**|**425**|
-|3823B1PE2|kolotukhin_alexander|**8/8**|**416**|
-|3823B1PE2|kotelnikova_anastasia|**8/8**|**413**|
-|3823B1PE2|olesnitskiy_vladimir|**8/8**|**378**|
+|3823B1PE2|klimenko_vladislav|**8/8**|**424**|
+|3823B1PE2|kolotukhin_alexander|**8/8**|**415**|
+|3823B1PE2|kotelnikova_anastasia|**8/8**|**412**|
+|3823B1PE2|olesnitskiy_vladimir|**8/8**|**377**|
 |3823B1PE2|ovchinnikov_matvey|5/8|252|
 |3823B1PE2|posternak_alexey|**8/8**|**388**|
-|3823B1PE2|romanov_rodion|**8/8**|**322**|
+|3823B1PE2|romanov_rodion|**8/8**|**321**|
 |3823B1PE2|shakirova_esenia|3/8|141|
-|3823B1PE2|sinev_artem|**8/8**|**412**|
-|3823B1PE2|tsyplakov_kirill|7/8|314|
+|3823B1PE2|sinev_artem|**8/8**|**411**|
+|3823B1PE2|tsyplakov_kirill|7/8|313|
 |3823B1PE2|vasiliev_mikhail|**8/8**|**448**|
 |3823B1PE2|viderman_aleksandra|**8/8**|**458**|
 |3823B1PE2|yushkova_polina|4/8|158|
-|3823B1PE2|zorin_danila_artemovich|**8/8**|**405**|
-|3823B1PE2|zyazeva_svetlana|4/8|160|
-|3823B1PE2|zyuzin_nikita|**8/8**|**417**|
+|3823B1PE2|zorin_danila_artemovich|**8/8**|**404**|
+|3823B1PE2|zyazeva_svetlana|5/8|205|
+|3823B1PE2|zyuzin_nikita|**8/8**|**416**|
 
 Passed: 12
 
