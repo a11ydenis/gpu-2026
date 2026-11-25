@@ -833,6 +833,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 ## 6_softmax_cuda (8192x16384 elements)
 |Group|Name|Result|Rank|
 |-----|----|------|----|
+|3823B1PE2|ovchinnikov_matvey|0.1138|15|
 |3823B1FI1|dorofeev_ivan|0.1687|1|
 |3823B1PE3|ermakov_alexei|0.1948|4|
 |3823B1PE2|akhmetov_daniil|0.1990|8|
@@ -912,6 +913,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |Group|Name|Result|Rank|
 |-----|----|------|----|
 |3823B1PE1|otcheskov_semyon|0.0460|3|
+|3823B1PE2|ovchinnikov_matvey|0.0920|14|
 |**FAST**|**FAST**|**0.0930**|**-**|
 |3823B1PE2|kolotukhin_alexander|0.1000|10|
 |3823B1FI2|ashihmin_daniil|0.1330|2|
@@ -1111,23 +1113,23 @@ Passed: 15
 ## 3823B1PE2
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
-|3823B1PE2|akhmetov_daniil|**8/8**|**426**|
-|3823B1PE2|klimenko_vladislav|**8/8**|**422**|
-|3823B1PE2|kolotukhin_alexander|**8/8**|**415**|
-|3823B1PE2|kotelnikova_anastasia|**8/8**|**410**|
-|3823B1PE2|olesnitskiy_vladimir|**8/8**|**375**|
-|3823B1PE2|ovchinnikov_matvey|5/8|252|
-|3823B1PE2|posternak_alexey|**8/8**|**387**|
-|3823B1PE2|romanov_rodion|**8/8**|**319**|
+|3823B1PE2|akhmetov_daniil|**8/8**|**424**|
+|3823B1PE2|klimenko_vladislav|**8/8**|**420**|
+|3823B1PE2|kolotukhin_alexander|**8/8**|**413**|
+|3823B1PE2|kotelnikova_anastasia|**8/8**|**408**|
+|3823B1PE2|olesnitskiy_vladimir|**8/8**|**373**|
+|3823B1PE2|ovchinnikov_matvey|7/8|353|
+|3823B1PE2|posternak_alexey|**8/8**|**385**|
+|3823B1PE2|romanov_rodion|**8/8**|**317**|
 |3823B1PE2|shakirova_esenia|3/8|141|
-|3823B1PE2|sinev_artem|**8/8**|**410**|
-|3823B1PE2|tsyplakov_kirill|7/8|313|
-|3823B1PE2|vasiliev_mikhail|**8/8**|**448**|
-|3823B1PE2|viderman_aleksandra|**8/8**|**457**|
+|3823B1PE2|sinev_artem|**8/8**|**408**|
+|3823B1PE2|tsyplakov_kirill|7/8|312|
+|3823B1PE2|vasiliev_mikhail|**8/8**|**446**|
+|3823B1PE2|viderman_aleksandra|**8/8**|**455**|
 |3823B1PE2|yushkova_polina|4/8|158|
-|3823B1PE2|zorin_danila_artemovich|**8/8**|**402**|
-|3823B1PE2|zyazeva_svetlana|7/8|298|
-|3823B1PE2|zyuzin_nikita|**8/8**|**415**|
+|3823B1PE2|zorin_danila_artemovich|**8/8**|**400**|
+|3823B1PE2|zyazeva_svetlana|7/8|296|
+|3823B1PE2|zyuzin_nikita|**8/8**|**413**|
 
 Passed: 12
 
