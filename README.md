@@ -997,6 +997,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1FI1|zenin_anton|0.2050|1|
 |3823B1PE3|rastvorov_kirill|0.2091|5|
 |3823B1PE4|karpich_ivan|0.2102|5|
+|3823B1FI2|sannikov_ivan|0.2337|2|
 |3823B1PE4|peryashkin_vasily|0.2377|3|
 |3823B1PE1|tabalaev_anton|0.2381|14|
 |3823B1PE3|dergachev_arseniy|0.2382|1|
@@ -1053,7 +1054,6 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE4|sinev_timur|0.4601|7|
 |3823B1PE4|trofimov_nikita|TEST FAILED|-|
 |3823B1PE4|kaur_alexander|TEST FAILED|-|
-|3823B1FI2|sannikov_ivan|TEST FAILED|-|
 
 # Tasks Done
 ## 3823B1FI1
@@ -1071,11 +1071,11 @@ Passed: 3
 |-----|----|------|-----|
 |3823B1FI2|ashihmin_daniil|7/8|427|
 |3823B1FI2|chyokotov_alexey|6/8|359|
-|3823B1FI2|rozenberg_alexey|**8/8**|**494**|
-|3823B1FI2|sannikov_ivan|7/8|420|
+|3823B1FI2|rozenberg_alexey|**8/8**|**493**|
+|3823B1FI2|sannikov_ivan|**8/8**|**483**|
 |3823B1FI2|volkov_aleksei|3/8|182|
 
-Passed: 1
+Passed: 2
 
 ## 3823B1FI3
 |Group|Name|Passed|Score|
@@ -1177,7 +1177,7 @@ Passed: 14
 
 Passed: 16
 
-**Total Passed: 62**
+**Total Passed: 63**
 
 ---
 *Maximum Score: 512 (64 per task)*
