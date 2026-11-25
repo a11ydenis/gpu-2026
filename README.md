@@ -485,6 +485,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE3|borunov_vladislav|0.2710|5|
 |3823B1PE3|korolev_kuzma|0.2786|10|
 |3823B1PE4|urin_oleg|0.4690|16|
+|3823B1PE3|pankov_andrey|0.4701|16|
 |3823B1PE2|zorin_danila_artemovich|0.4702|4|
 |3823B1PE1|morozov_nikita|0.4711|1|
 |3823B1PE3|afanasyev_alexandr|0.4714|9|
@@ -553,6 +554,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE1|chernov_timur|0.2524|14|
 |3823B1PE1|tabalaev_anton|0.2534|12|
 |3823B1FI2|rozenberg_alexey|0.2537|1|
+|3823B1PE3|pankov_andrey|0.2542|16|
 |3823B1PE4|safronov_maksim|0.2545|9|
 |3823B1PE3|korolev_kuzma|0.2556|10|
 |3823B1FI2|sannikov_ivan|0.2562|3|
@@ -638,6 +640,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE4|peryashkin_vasily|0.1430|5|
 |3823B1FI3|lifanov_kirill|0.1437|1|
 |3823B1PE2|kotelnikova_anastasia|0.1479|3|
+|3823B1PE3|pankov_andrey|0.1663|16|
 |3823B1PE3|samoylenko_ilya|0.1745|14|
 |3823B1PE3|afanasyev_alexandr|0.1774|9|
 |3823B1PE4|baranov_andrey|0.1791|6|
@@ -710,6 +713,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE3|smetanin_dmitriy|0.1324|13|
 |3823B1PE4|romanov_michail|0.1328|7|
 |3823B1PE4|urin_oleg|0.1329|3|
+|3823B1PE3|pankov_andrey|0.1340|16|
 |3823B1PE4|kamaletdinov_ramzan|0.1344|18|
 |3823B1PE3|korolev_kuzma|0.1347|10|
 |3823B1PE4|safronov_maksim|0.1360|9|
@@ -794,6 +798,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE1|zhurin_ivan|0.0430|13|
 |3823B1PE3|smetanin_dmitriy|0.0433|13|
 |3823B1PE3|samoylenko_ilya|0.0434|14|
+|3823B1PE3|pankov_andrey|0.0443|16|
 |3823B1PE2|zorin_danila_artemovich|0.0498|2|
 |3823B1PE3|balchunayte_zlata|0.0501|7|
 |3823B1PE2|romanov_rodion|0.0503|12|
@@ -865,6 +870,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1FI3|lifanov_kirill|0.2513|1|
 |3823B1PE3|paramonov_leonid|0.2523|9|
 |3823B1PE4|vdovin_artem|0.2523|17|
+|3823B1PE3|pankov_andrey|0.2548|15|
 |3823B1PE3|samoylenko_ilya|0.2563|12|
 |3823B1PE4|terekhov_dmitriy|0.2563|7|
 |3823B1PE1|zhurin_ivan|0.2596|14|
@@ -947,6 +953,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE1|zhurin_ivan|0.1780|12|
 |3823B1PE4|trofimov_nikita|0.1780|14|
 |3823B1PE3|batkov_filipp|0.1780|6|
+|3823B1PE3|pankov_andrey|0.1780|14|
 |3823B1PE4|sinev_timur|0.1800|8|
 |3823B1PE1|tsibareva_ekaterina|0.1810|11|
 |3823B1PE4|vdovin_artem|0.1820|17|
@@ -1028,6 +1035,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE1|kondrashova_victoria|0.4422|6|
 |3823B1PE2|tsyplakov_kirill|0.4435|11|
 |3823B1PE3|paramonov_leonid|0.4445|9|
+|3823B1PE3|pankov_andrey|0.4485|14|
 |3823B1PE3|afanasyev_alexandr|0.4589|6|
 |3823B1PE2|zorin_danila_artemovich|0.4599|3|
 |3823B1PE4|sinev_timur|0.4601|7|
@@ -1113,23 +1121,24 @@ Passed: 12
 ## 3823B1PE3
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
-|3823B1PE3|afanasyev_alexandr|**8/8**|**369**|
-|3823B1PE3|balchunayte_zlata|5/8|233|
-|3823B1PE3|batkov_filipp|**8/8**|**408**|
+|3823B1PE3|afanasyev_alexandr|**8/8**|**361**|
+|3823B1PE3|balchunayte_zlata|5/8|229|
+|3823B1PE3|batkov_filipp|**8/8**|**405**|
 |3823B1PE3|bortsova_angelina|**8/8**|**455**|
 |3823B1PE3|borunov_vladislav|6/8|314|
 |3823B1PE3|dergachev_arseniy|**8/8**|**481**|
-|3823B1PE3|ermakov_alexei|**8/8**|**462**|
-|3823B1PE3|korolev_kuzma|**8/8**|**390**|
+|3823B1PE3|ermakov_alexei|**8/8**|**461**|
+|3823B1PE3|korolev_kuzma|**8/8**|**387**|
 |3823B1PE3|marin_lev|**8/8**|**459**|
-|3823B1PE3|paramonov_leonid|**8/8**|**347**|
+|3823B1PE3|pankov_andrey|**8/8**|**317**|
+|3823B1PE3|paramonov_leonid|**8/8**|**342**|
 |3823B1PE3|rastvorov_kirill|**8/8**|**460**|
-|3823B1PE3|samoylenko_ilya|**8/8**|**340**|
+|3823B1PE3|samoylenko_ilya|**8/8**|**334**|
 |3823B1PE3|shemetov_daniil|**8/8**|**377**|
-|3823B1PE3|shkenev_ilya|**8/8**|**372**|
-|3823B1PE3|smetanin_dmitriy|**8/8**|**349**|
+|3823B1PE3|shkenev_ilya|**8/8**|**370**|
+|3823B1PE3|smetanin_dmitriy|**8/8**|**346**|
 
-Passed: 13
+Passed: 14
 
 ## 3823B1PE4
 |Group|Name|Passed|Score|
@@ -1155,7 +1164,7 @@ Passed: 13
 
 Passed: 15
 
-**Total Passed: 60**
+**Total Passed: 61**
 
 ---
 *Maximum Score: 512 (64 per task)*
