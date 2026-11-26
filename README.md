@@ -1007,6 +1007,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE1|rusakova_aleksandra|0.2386|2|
 |3823B1FI3|lifanov_kirill|0.2386|1|
 |3823B1PE2|posternak_alexey|0.2392|13|
+|3823B1PE2|zyazeva_svetlana|0.2397|14|
 |3823B1PE3|samoylenko_ilya|0.2398|12|
 |3823B1PE4|dilshodov_adkham|0.2399|1|
 |3823B1PE4|safronov_maksim|0.2408|11|
@@ -1115,24 +1116,24 @@ Passed: 15
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
 |3823B1PE2|akhmetov_daniil|**8/8**|**424**|
-|3823B1PE2|klimenko_vladislav|**8/8**|**420**|
-|3823B1PE2|kolotukhin_alexander|**8/8**|**413**|
-|3823B1PE2|kotelnikova_anastasia|**8/8**|**408**|
-|3823B1PE2|olesnitskiy_vladimir|**8/8**|**373**|
+|3823B1PE2|klimenko_vladislav|**8/8**|**419**|
+|3823B1PE2|kolotukhin_alexander|**8/8**|**412**|
+|3823B1PE2|kotelnikova_anastasia|**8/8**|**407**|
+|3823B1PE2|olesnitskiy_vladimir|**8/8**|**372**|
 |3823B1PE2|ovchinnikov_matvey|7/8|353|
 |3823B1PE2|posternak_alexey|**8/8**|**385**|
-|3823B1PE2|romanov_rodion|**8/8**|**317**|
+|3823B1PE2|romanov_rodion|**8/8**|**316**|
 |3823B1PE2|shakirova_esenia|3/8|141|
-|3823B1PE2|sinev_artem|**8/8**|**408**|
-|3823B1PE2|tsyplakov_kirill|7/8|312|
-|3823B1PE2|vasiliev_mikhail|**8/8**|**446**|
+|3823B1PE2|sinev_artem|**8/8**|**407**|
+|3823B1PE2|tsyplakov_kirill|7/8|311|
+|3823B1PE2|vasiliev_mikhail|**8/8**|**445**|
 |3823B1PE2|viderman_aleksandra|**8/8**|**455**|
 |3823B1PE2|yushkova_polina|4/8|158|
-|3823B1PE2|zorin_danila_artemovich|**8/8**|**400**|
-|3823B1PE2|zyazeva_svetlana|7/8|296|
+|3823B1PE2|zorin_danila_artemovich|**8/8**|**399**|
+|3823B1PE2|zyazeva_svetlana|**8/8**|**343**|
 |3823B1PE2|zyuzin_nikita|**8/8**|**413**|
 
-Passed: 12
+Passed: 13
 
 ## 3823B1PE3
 |Group|Name|Passed|Score|
@@ -1181,7 +1182,7 @@ Passed: 15
 
 Passed: 16
 
-**Total Passed: 64**
+**Total Passed: 65**
 
 ---
 *Maximum Score: 512 (64 per task)*
