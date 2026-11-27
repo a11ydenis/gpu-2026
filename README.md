@@ -989,6 +989,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 ## 8_gelu_ocl (134217728 elements)
 |Group|Name|Result|Rank|
 |-----|----|------|----|
+|3823B1PE2|ovchinnikov_matvey|0.1249|15|
 |3823B1PE2|viderman_aleksandra|0.1932|5|
 |3823B1FI1|dorofeev_ivan|0.1984|2|
 |3823B1PE2|akhmetov_daniil|0.1986|7|
@@ -1057,7 +1058,6 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1PE3|afanasyev_alexandr|0.4589|6|
 |3823B1PE2|zorin_danila_artemovich|0.4599|3|
 |3823B1PE4|sinev_timur|0.4601|7|
-|3823B1PE2|ovchinnikov_matvey|TEST FAILED|-|
 |3823B1PE4|trofimov_nikita|TEST FAILED|-|
 |3823B1PE4|kaur_alexander|TEST FAILED|-|
 
@@ -1116,25 +1116,25 @@ Passed: 15
 ## 3823B1PE2
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
-|3823B1PE2|akhmetov_daniil|**8/8**|**424**|
-|3823B1PE2|klimenko_vladislav|**8/8**|**419**|
-|3823B1PE2|kolotukhin_alexander|**8/8**|**412**|
-|3823B1PE2|kotelnikova_anastasia|**8/8**|**407**|
-|3823B1PE2|olesnitskiy_vladimir|**8/8**|**372**|
-|3823B1PE2|ovchinnikov_matvey|7/8|353|
-|3823B1PE2|posternak_alexey|**8/8**|**385**|
-|3823B1PE2|romanov_rodion|**8/8**|**316**|
+|3823B1PE2|akhmetov_daniil|**8/8**|**423**|
+|3823B1PE2|klimenko_vladislav|**8/8**|**418**|
+|3823B1PE2|kolotukhin_alexander|**8/8**|**411**|
+|3823B1PE2|kotelnikova_anastasia|**8/8**|**406**|
+|3823B1PE2|olesnitskiy_vladimir|**8/8**|**371**|
+|3823B1PE2|ovchinnikov_matvey|**8/8**|**403**|
+|3823B1PE2|posternak_alexey|**8/8**|**384**|
+|3823B1PE2|romanov_rodion|**8/8**|**315**|
 |3823B1PE2|shakirova_esenia|3/8|141|
-|3823B1PE2|sinev_artem|**8/8**|**407**|
-|3823B1PE2|tsyplakov_kirill|7/8|311|
-|3823B1PE2|vasiliev_mikhail|**8/8**|**445**|
-|3823B1PE2|viderman_aleksandra|**8/8**|**455**|
+|3823B1PE2|sinev_artem|**8/8**|**406**|
+|3823B1PE2|tsyplakov_kirill|7/8|310|
+|3823B1PE2|vasiliev_mikhail|**8/8**|**444**|
+|3823B1PE2|viderman_aleksandra|**8/8**|**454**|
 |3823B1PE2|yushkova_polina|4/8|158|
-|3823B1PE2|zorin_danila_artemovich|**8/8**|**399**|
-|3823B1PE2|zyazeva_svetlana|**8/8**|**343**|
-|3823B1PE2|zyuzin_nikita|**8/8**|**413**|
+|3823B1PE2|zorin_danila_artemovich|**8/8**|**398**|
+|3823B1PE2|zyazeva_svetlana|**8/8**|**342**|
+|3823B1PE2|zyuzin_nikita|**8/8**|**412**|
 
-Passed: 13
+Passed: 14
 
 ## 3823B1PE3
 |Group|Name|Passed|Score|
@@ -1183,7 +1183,7 @@ Passed: 15
 
 Passed: 16
 
-**Total Passed: 65**
+**Total Passed: 66**
 
 ---
 *Maximum Score: 512 (64 per task)*
